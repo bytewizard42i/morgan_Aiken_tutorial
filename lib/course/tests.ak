@@ -1,3 +1,5 @@
+// test for my first Aiken independant module
+
 use cardano/address.{Address, Script, VerificationKey}
 use cardano/assets.{Value}
 use cardano/transaction.{Datum, Input, Output, OutputReference}
